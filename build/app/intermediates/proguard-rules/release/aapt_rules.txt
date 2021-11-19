@@ -1,0 +1,6 @@
+# Referenced at C:\Users\Admin\Downloads\tinder_clone-master\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\tinder_clone-master\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:22
+-keep class com.example.tinder_clone.MainActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\tinder_clone-master\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }
